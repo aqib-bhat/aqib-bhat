@@ -1,4 +1,10 @@
-### Hi there 👋
+# 🤠 Howdy! 👋
+
+- 🔭 I’m Aqib Niaz Bhat, a software engineer 💻 by profession.
+- 🕸 Personal website: https://aqib-bhat.github.io/aqibmedes/
+  - The website is hosted on 📃 GitHub Pages, and 🚰 sourced from my repository: https://github.com/aqib-bhat/aqibmedes
+  - 📫 How to reach me: https://aqib-bhat.github.io/aqibmedes/#/contact
+- 🏠 Location: Greater Vancouver Area 🏔🇨🇦
 
 <!--
 **aqib-bhat/aqib-bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
