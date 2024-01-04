@@ -6,6 +6,12 @@
   - 📫 How to reach me: https://aqib-bhat.github.io/aqibmedes/#/contact
 - 🏠 Location: Greater Vancouver Area 🏔🇨🇦
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aqibbhat/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <!--
 **aqib-bhat/aqib-bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
