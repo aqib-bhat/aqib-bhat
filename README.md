@@ -7,7 +7,7 @@
 - 🏠 Location: Greater Vancouver Area 🏔🇨🇦
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aqibbhat/" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/aqibbhat/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
