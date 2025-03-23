@@ -5,6 +5,7 @@
   - The website is hosted on 📃 GitHub Pages, and 🚰 sourced from my repository: https://github.com/aqib-bhat/aqibmedes
   - 📫 How to reach me: https://aqib-bhat.github.io/aqibmedes/#/contact
 - 🏠 Location: Greater Vancouver Area 🏔🇨🇦
+- My GitHub organization for OSS projects: https://github.com/aqib-oss
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aqibbhat/" target="_blank" rel="noopener noreferrer">
